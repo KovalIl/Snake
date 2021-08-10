@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db0acb989752a0e4daf3994097d7b539, type: 3}
+  m_Name: LimusineSnake
+  m_EditorClassIdentifier: 
+  _snakeTail: {fileID: 456560949285982533, guid: a65450afac6811047a68a6dbf0d9b4e1,
+    type: 3}
+  _snakeHead: {fileID: 1218585872291646088, guid: 1a7b74509a7e68f43a1e0cc5bc27946b,
+    type: 3}
+  _speedPlayer: 5.5

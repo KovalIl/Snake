@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db0acb989752a0e4daf3994097d7b539, type: 3}
+  m_Name: GreenSnake
+  m_EditorClassIdentifier: 
+  _snakeTail: {fileID: 2628615448994693389, guid: 6992a944db1ab174d801d42e6b18a1d5,
+    type: 3}
+  _snakeHead: {fileID: 1653926908099764021, guid: 9c4d3f7a2b433c44d97469257c8b78f3,
+    type: 3}
+  _speedPlayer: 3.5
